@@ -1,4 +1,5 @@
 {
+    "version": "1.0.0",
     "domain": "momentary_remote_rpi_gpio",
     "name": "Momentary Switch for remote_rpi_gpio",
     "documentation": "https://www.home-assistant.io/integrations/remote_rpi_gpio",
