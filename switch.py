@@ -10,7 +10,7 @@ from homeassistant.helpers.event import track_point_in_time
 import homeassistant.util.dt as dt_util
 
 from . import CONF_INVERT_LOGIC, DEFAULT_INVERT_LOGIC
-from .. import hass_momentary_remote_gpio
+from .. import momentary_remote_rpi_gpio
 
 CONF_PORTS = "ports"
 
