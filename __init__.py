@@ -8,7 +8,7 @@ CONF_INVERT_LOGIC = "invert_logic"
 CONF_PULL_MODE = "pull_mode"
 
 DEFAULT_BOUNCETIME = 50
-DEFAULT_INVERT_LOGIC = False
+DEFAULT_INVERT_LOGIC = True
 DEFAULT_PULL_MODE = "UP"
 
 DOMAIN = "momentary_remote_rpi_gpio"
